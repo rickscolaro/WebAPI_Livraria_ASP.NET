@@ -4,4 +4,4 @@ APLICAÇÃO DE REGRAS DE NEGOCIOS:
 - DTO. Não mostra informações sensiveis
 - Se cliente possui vendas não é excluido
 - Altera somente propriedades especificadas de uma classe
-- No cadastrode vendas diminui o estoque
+- No cadastro de vendas diminui oaltera-se o estoque
