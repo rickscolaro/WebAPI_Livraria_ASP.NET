@@ -1,5 +1,6 @@
 # WebAPI_Livraria_ASP.NET
-API REST na plataforma .NET usando a ASP .NET Core EF Core na abordagem Code-First aplicando o Migrations  e SQLServer
+API REST na plataforma .NET usando a ASP.NET Core, EF Core na abordagem Code-First e aplicando Migrations e SQLServer.
+
 APLICAÇÃO DE REGRAS DE NEGOCIOS:
 - DTOs. Não mostra informações sensiveis
 - Se o cliente possui vendas não é excluido
